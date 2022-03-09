@@ -2,4 +2,4 @@
 
 CSS for fronter widget from https://irys.neocities.org/fronters/
 
-also the testing HTML file
+Also the HTML file for testing it out
