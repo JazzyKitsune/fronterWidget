@@ -29,6 +29,7 @@
 	flex-flow: column wrap;
 	align-items: center;
 	max-width: 8em;
+	font-family: 'Roboto', sans-serif;
 }
 
 .pkfronters--member-card--avatar
