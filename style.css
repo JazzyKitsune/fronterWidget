@@ -21,7 +21,6 @@
 	display: flex;
 	flex-flow: row wrap;
 	gap: 1rem;
-	align-items: center;
 }
 
 .pkfronters--member-card
@@ -31,7 +30,8 @@
 	align-items: center;
 	max-width: 8em;
 	font-family: 'Roboto', sans-serif;
-	color: #5E5E5E
+	color: #5E5E5E;
+	margin: auto;
 }
 
 .pkfronters--member-card--avatar
