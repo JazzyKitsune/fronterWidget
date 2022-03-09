@@ -21,6 +21,7 @@
 	display: flex;
 	flex-flow: row wrap;
 	gap: 1rem;
+	margin: auto;
 }
 
 .pkfronters--member-card
